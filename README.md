@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Neftalem Dagnachew
 
-driven **Front-End Developer** and tech enthusiast that likes building interactive, responsive, clean websites. I am working to create amazing user experiences and master modern web technologies.
+Full-Stack Developer with a strong interest in creating aesthetically pleasing, cutting-edge, and significant web experiences.
 
 ## 🚀 Skills & Technologies
 <p>
@@ -12,6 +12,11 @@ driven **Front-End Developer** and tech enthusiast that likes building interacti
   <img src="https://img.icons8.com/?size=256&id=nCj4PvnCO0tZ&format=png" height="100px"/>
   <img src="https://img.icons8.com/?size=256&id=wPohyHO_qO1a&format=png" height="100px"/>
   <img src="https://img.icons8.com/?size=256&id=20906&format=png" height="100px"/>
+  <img src="[https://img.icons8.com/?size=256&id=20906&format=png](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)" height="100px"/>
+  <img src="[https://img.icons8.com/?size=256&id=20906&format=png](https://img.icons8.com/?size=100&id=LPmcJ9e0FU7K&format=png&color=000000)" height="100px"/>
+  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" height="100px"/>
+  <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" height="100px"/>
+  
 </p>
 ---
 
