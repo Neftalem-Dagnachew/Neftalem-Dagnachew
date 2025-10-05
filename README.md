@@ -12,8 +12,8 @@ Full-Stack Developer with a strong interest in creating aesthetically pleasing, 
   <img src="https://img.icons8.com/?size=256&id=nCj4PvnCO0tZ&format=png" height="100px"/>
   <img src="https://img.icons8.com/?size=256&id=wPohyHO_qO1a&format=png" height="100px"/>
   <img src="https://img.icons8.com/?size=256&id=20906&format=png" height="100px"/>
-  <img src="[https://img.icons8.com/?size=256&id=20906&format=png](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)" height="100px"/>
-  <img src="[https://img.icons8.com/?size=256&id=20906&format=png](https://img.icons8.com/?size=100&id=LPmcJ9e0FU7K&format=png&color=000000)" height="100px"/>
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="100px"/>
+  <img src="https://img.icons8.com/?size=100&id=IuuVVwsdTi2v&format=png&color=000000" height="100px"/>
   <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" height="100px"/>
   <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" height="100px"/>
   
