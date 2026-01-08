@@ -1,30 +1,11 @@
-<img src="file:///C:/Users/Hp/OneDrive/Pictures/Saved%20Pictures/pic/575e87fb-6dc8-490f-b624-b21b3a51469a.png"  style="width:500%; height:300px; object-fit:cover; border-radius:12px;" />
 
-# 👋 Hi, I'm Neftalem Dagnachew
+<h3 align="center">A passionate fulstuck developer from India</h3>
 
-Full-Stack Developer with a strong interest in creating aesthetically pleasing, cutting-edge, and significant web experiences.
-
-## 🚀 Skills & Technologies
-<p>
-  <img src="https://img.icons8.com/?size=256&id=20909&format=png" style="height:100px; disply: flex;"/>
-  <img src="https://img.icons8.com/?size=256&id=21278&format=png" height="100px"/>
-  <img src="https://img.icons8.com/?size=256&id=108784&format=png" height="100px"/>
-  <img src="https://img.icons8.com/?size=256&id=nCj4PvnCO0tZ&format=png" height="100px"/>
-  <img src="https://img.icons8.com/?size=256&id=wPohyHO_qO1a&format=png" height="100px"/>
-  <img src="https://img.icons8.com/?size=256&id=20906&format=png" height="100px"/>
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="100px"/>
-  <img src="https://img.icons8.com/?size=100&id=IuuVVwsdTi2v&format=png&color=000000" height="100px"/>
-  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" height="100px"/>
-  <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" height="100px"/>
-  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/neftalem-dagnachew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neftalem-dagnachew" height="30" width="40" /></a>
+<a href="https://instagram.com/iconic._.n3fte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iconic._.n3fte" height="30" width="40" /></a>
 </p>
----
 
-## 📊 GitHub Stats
-
-<div style="display: flex; gap: 20px; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeftaMERN&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 48%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeftaMERN&layout=compact&theme=radical" alt="Top Languages" style="max-width: 48%;" />
-</div>
-
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
