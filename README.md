@@ -12,7 +12,7 @@
 📬 Get in touch: **dneftalem@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<p align="left">
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="70" height="70">
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="70" height="70">
   <img src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" width="70" height="70">
