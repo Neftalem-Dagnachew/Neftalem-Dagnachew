@@ -21,6 +21,7 @@
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="70" height="70">
   <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="70" height="70">
   <img src="https://img.icons8.com/?size=100&id=55497&format=png&color=000000" width="70" height="70">
+  <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" width="70" height="70">
   
   
 </p>
