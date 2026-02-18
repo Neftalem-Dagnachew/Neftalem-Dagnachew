@@ -30,7 +30,11 @@
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=Neftalem-Dagnachew&theme=radical&hide_border=false" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neftalem-Dagnachew&layout=compact&theme=radical" />
+  
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Neftalem-Dagnachew&layout=compact" />
+
+
+
 
   
 
