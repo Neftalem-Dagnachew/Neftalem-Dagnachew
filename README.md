@@ -14,19 +14,8 @@
 <br>
 <h2><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="30"> Languages and Tools:</h2>
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="90" height="90">
-  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="90" height="90">
-  <img src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" width="90" height="90">
-  <img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" width="90" height="90">
-  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="90" height="90">
-  <img src="https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000" width="90" height="90">
-  <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="90" height="90">
-  <img src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000" width="90" height="90">
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="90" height="90">
-  <img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" width="90" height="90">
-  <img src="https://img.icons8.com/?size=100&id=55497&format=png&color=000000" width="90" height="90">
-  <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" width="90" height="90">
   
+  [![My Skills](https://skillicons.dev/icons?i=react,ts,js,mysql,github,git,vite,npm,expressjs,nodejs,python,html,css,tailwind,bootstrap,figma&perline=8)](#)
   
 </p>
 <hr/>
