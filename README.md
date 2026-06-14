@@ -22,7 +22,7 @@
 
 ## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="30"> Statistics
 
-| Most used languages                                                                                                                     | Streaks                                                                                       |
+| GitHub Stats                                                                                                                     | Streaks                                                                                       |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats-zeta-three-35.vercel.app/api/top-langs?username=Neftalem-Dagnachew&layout=compact&theme=transparent&langs_count=12&count_private=true&cache_seconds=86400) | ![Neftalem-Dagnachew](https://github-readme-streak-stats-eight.vercel.app/?user=Neftalem-Dagnachew&theme=tokyonight&hide_border=true) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neftalem-Dagnachew&show_icons=true&theme=tokyonight&hide_border=true) | ![Neftalem-Dagnachew](https://github-readme-streak-stats-eight.vercel.app/?user=Neftalem-Dagnachew&theme=tokyonight&hide_border=true) |
 
